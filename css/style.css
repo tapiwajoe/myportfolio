@@ -14,11 +14,11 @@
 	--main-color: #eb4a4a;
 	--second-color: gray;
 	--other-color: #12141c;
-	--h1-font: 5.2rem;
-	--h2-font: 3.5rem;
+	--h1-font: 4.2rem;
+	--h2-font: 2.5rem;
 	--p-font: 1.1rem;
 }
-body{
+body {
 	background: var(--bg-color);
 	color: var(--text-color);
 }
@@ -192,11 +192,13 @@ header.sticky{
 	background:  var(--text-color);
 	color:var(--main-color);	
 	border-radius: 40px;
+
 }
 .btn.signin{
 	background:  var(--text-color);
 	color:var(--main-color);	
 	border-radius: 30px;
+	
 
 }
 .box{
